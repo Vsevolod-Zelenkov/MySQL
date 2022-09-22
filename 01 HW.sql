@@ -1,5 +1,3 @@
--- Student Vsevolod Zelenkov.
--- Home work week 1.
 
 -- Task 1.
  -- List all female employees who joined at 01/01/1990 or at 01/01/2000.
@@ -81,5 +79,3 @@ SELECT emp_no,
 FROM employees.salaries
 GROUP BY emp_no
 ORDER BY avg_salary DESC;
-
--- Thanks for watching :)
